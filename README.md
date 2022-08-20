@@ -1,4 +1,4 @@
-# Mall_customers
+#Customer Segmentation & Clustering
 Project: Creating Customer Segments and Clustering
 
 In this project, we will analyze a dataset containing data on various customers that will allow us to perform customer segmentation on a specific group of mall 
